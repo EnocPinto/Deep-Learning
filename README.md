@@ -1,2 +1,2 @@
-# Google-Colab
+# Deep Learning 
 Google Colab repository
